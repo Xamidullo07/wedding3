@@ -565,7 +565,7 @@ function App() {
         </div>
 
         <p className="mx-auto mt-12 max-w-md font-garamond text-lg leading-relaxed text-white/65 sm:text-xl">
-          Sizni Sayidkarimxon va Sevinchning nikoh to‘yining aziz mehmoni bo‘lishga taklif qilamiz. Qalblar ezgulikka to‘la bo‘lgan ushbu qutlug‘ kunda yaqinlarimiz yonida bo‘ling!
+          Sizni Sayidkarimxon va Xumoraxon nikoh to‘yining aziz mehmoni bo‘lishga taklif qilamiz. Qalblar ezgulikka to‘la bo‘lgan ushbu qutlug‘ kunda yaqinlarimiz yonida bo‘ling!
         </p>
 
         <div className="mx-auto mt-24 h-14 w-px bg-gradient-to-b from-gold-300/80 to-transparent" />
