@@ -219,12 +219,12 @@ function InvitationCover({ onOpen }: { onOpen: () => void }) {
         </p>
 
         <h1 className="mt-7 max-w-3xl font-serif text-4xl leading-[1.08] text-white drop-shadow-lg sm:text-6xl lg:text-7xl">
-          Sayidkarimxon{' '}
+          Saidkarimxon{' '}
           <span className="font-cursive text-5xl text-gold-300 sm:text-7xl">
             &amp;
           </span>
           <br />
-          Xumora
+          Xumoraxon
         </h1>
 
         <div className="my-7 flex items-center gap-5 text-gold-300/80">
@@ -260,7 +260,7 @@ function InvitationCover({ onOpen }: { onOpen: () => void }) {
       </div>
 
       <div className="absolute bottom-8 left-0 right-0 z-10 text-center font-sans text-[9px] uppercase tracking-[0.35em] text-white/40">
-        Sayidkarimxon &amp; Xumora 
+        Saidkarimxon &amp; Xumoraxon
       </div>
     </section>
   );
@@ -353,12 +353,12 @@ function App() {
             <div className="h-px w-16 gold-divider opacity-70" />
           </div>
 
-          <p className="font-cursive text-2xl sm:text-3xl text-sage-600 mb-2">
-            Sayidkarimxon &amp; Xumora
-          </p>
+          {/* <p className="font-cursive text-2xl sm:text-3xl text-sage-600 mb-2">
+            Saidkarimxon &amp; Xumoraxon
+          </p> */}
 
           <h1 className="font-serif text-5xl sm:text-7xl lg:text-8xl text-gold-gradient leading-tight mb-4">
-            Sayidkarimxon
+           Saidkarimxon
           </h1>
 
           <p className="font-cursive text-4xl sm:text-5xl text-sage-500 mb-4">
@@ -366,7 +366,7 @@ function App() {
           </p>
 
           <h1 className="font-serif text-5xl sm:text-7xl lg:text-8xl text-gold-gradient leading-tight mb-8">
-            Xumora
+            Xumoraxon
           </h1>
 
           <p className="font-garamond text-lg sm:text-xl text-sage-700 italic max-w-xl mx-auto leading-relaxed">
@@ -515,7 +515,7 @@ function App() {
         </p>
 
         <p className="font-sans text-sm uppercase tracking-[0.25em] text-sage-500 mt-6">
-          Sayidkarimxon & Xumora 
+          Saidkarimxon &amp; Xumoraxon
         </p>
       </section>
 
@@ -545,7 +545,7 @@ function App() {
             </span>
 
             <span className="mt-4 font-cursive text-xl text-cream-100">
-              Sayidkarimxon
+              Saidkarimxon
             </span>
 
           </div>
@@ -557,7 +557,7 @@ function App() {
             </span>
 
             <span className="mt-4 font-cursive text-xl text-cream-100">
-              Xumora
+              Xumoraxon
             </span>
 
           </div>
@@ -580,7 +580,7 @@ function App() {
         />
 
         <p className="font-cursive text-2xl text-sage-600 mb-2">
-          Sayidkarimxon &  Xumora
+          Saidkarimxon &amp; Xumoraxon
         </p>
 
         <p className="font-sans text-xs uppercase tracking-[0.25em] text-sage-400">
